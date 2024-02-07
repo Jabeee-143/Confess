@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Yay, see you on the tomorrow!";
+  question.innerHTML = "Yay, see you soon♥️!";
   gif.src ="second.gif";
 
   yesBtn.addEventListener("click", () =>{
