@@ -9,7 +9,7 @@ yesBtn.addEventListener("click", () => {
   gif.src ="second.gif";
 
   yesBtn.addEventListener("click", () =>{
-    question.innerHTML = "I love you unconditionally(⁠✿⁠ ⁠♡⁠‿⁠♡⁠)";
+    question.innerHTML = "I love you unconditionally";
     gif.src ="third.gif";
   });
 
